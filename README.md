@@ -16,7 +16,7 @@ In addition to these technical skills, I'm also expanding my knowledge in the fi
 I'm open to collaborating on projects related to sports analytics, data visualization, and real-time event coverage.
 
 ## 📫 How to Reach Me
-You can reach me via email at vladyy.12.3@gmai.com or connect with me on https://www.linkedin.com/in/vladimir-simeonov-388a5a227
+You can connect with me on https://www.linkedin.com/in/vladimir-simeonov-388a5a227
 
 ## ⚡ Fun Fact
 I'm also a passionate athlete and enjoy participating in various sports activities in my free time!
