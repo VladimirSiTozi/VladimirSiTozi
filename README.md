@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Vladimir Simeonov 
 
-## 👀 About Me
+## 👀 About Me 
 I'm a Live Feed Analyst at Genius Sports, specializing in covering sports events. With a passion for sports and data analysis, I'm dedicated to delivering real-time insights and updates to sports fans worldwide.
 
 ## 🌱 Currently Learning
