@@ -1,11 +1,9 @@
 <h2 align="left">Hi 👋! My name is Vladimir</h2>
 
----
 
 <h3 align="left">I'm a Live Feed Analyst at Genius Sports and a passionate Python learner with a keen interest in data analytics, software development, and technology innovation.</h3>
 
----
-
+___
 <p align="left">
   <l>
     <li>🎓 I graduated with a degree in Computer Systems and Technologies from South-West Universi.ty "Neofit Rilski".</li>
