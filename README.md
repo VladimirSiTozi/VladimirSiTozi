@@ -1,25 +1,24 @@
 <h2 align="left">Hi 👋! My name is Vladimir</h2>
 
-###
+---
 
 <h3 align="left">I'm a Live Feed Analyst at Genius Sports and a passionate Python learner with a keen interest in data analytics, software development, and technology innovation.</h3>
 
-###
+---
 
-<p align="left">🎓 I graduated with a degree in Computer Systems and Technologies from South-West Universi.ty "Neofit Rilski".<br>🌱 I'm learning Web Development with Python at Software University (SoftUni).<br>💻 Currently working as Live Feed Analyst at Genius Sports.<br>⚡ Fun fact: I love to play football and hike into the nature.</p>
+<p align="left">
+  <l>
+    <li>🎓 I graduated with a degree in Computer Systems and Technologies from South-West Universi.ty "Neofit Rilski".</li>
+    <li>🌱 I'm learning Web Development with Python at Software University (SoftUni).</li>
+    <li>💻 Currently working as Live Feed Analyst at Genius Sports.</li>
+    <li>⚡ Fun fact: I love to play football and hike into the nature.</li>
+  </l>
+</p>
 
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=VladimirSiTozi&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=VladimirSiTozi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
+---
 
 <p align="left">Contact with me:</p>
 
-###
 
 <div align="left">
   <a href="https://github.com/VladimirSiTozi" target="_blank">
@@ -27,11 +26,9 @@
   </a>
 </div>
 
-###
+---
 
 <p align="left">Languages and Tools I know:</p>
-
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
@@ -53,10 +50,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
 </div>
 
-###
+<br>
+<br>
+<br>
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/VladimirSiTozi/VladimirSiTozi/output/snake.svg" alt="Snake animation" />
-
-###
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=VladimirSiTozi&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=VladimirSiTozi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
