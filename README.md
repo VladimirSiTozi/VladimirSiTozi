@@ -3,6 +3,7 @@
 
 <h3 align="left">I'm a Live Feed Analyst at Genius Sports and a passionate Python learner with a keen interest in data analytics, software development, and technology innovation.</h3>
 
+<br>
 
 <p align="left">
   <l>
@@ -13,7 +14,7 @@
   </l>
 </p>
 
-
+<br>
 
 <p align="left">Contact with me:</p>
 
@@ -24,7 +25,7 @@
   </a>
 </div>
 
-
+<br>
 
 <p align="left">Languages and Tools I know:</p>
 
