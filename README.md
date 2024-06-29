@@ -10,7 +10,7 @@
     <li>🎓 I graduated with a degree in Computer Systems and Technologies from South-West Universi.ty "Neofit Rilski".</li>
     <li>🌱 I'm learning Web Development with Python at Software University (SoftUni).</li>
     <li>💻 Currently working as Live Feed Analyst at Genius Sports.</li>
-    <li>⚡ Fun fact: I love to play football and hike into the nature.</li>
+    <li>⚡ Fun fact: I love to play football and hike into the nature. </li>
   </l>
 </p>
 
