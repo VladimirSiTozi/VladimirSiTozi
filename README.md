@@ -5,6 +5,8 @@
 
 <br>
 
+<img align="right" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExODd1aHE4ZWxxeWEwd2IzbThmc3o1a3poNGZqOWtuMTV2aWJwdzRqeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/12754FUAz1Ks5q/giphy.webp">
+
 <p align="left">
   <l>
     <li>🎓 I graduated with a degree in Computer Systems and Technologies from South-West Universi.ty "Neofit Rilski".</li>
@@ -52,7 +54,6 @@
   <img width="12" />
 </div>
 
-  
 
 <br>
 <br>
@@ -62,3 +63,11 @@
   <img src="https://streak-stats.demolab.com?user=VladimirSiTozi&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5" height="150" alt="streak graph"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=VladimirSiTozi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" height="150" alt="languages graph"  />
 </div>
+
+<br>
+<br>
+
+<div align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmJmMWtjNmllMTVrN3V2cTRjM2ZnMm42aWhpeGJwZmgzdzl5bXJoZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LaVp0AyqR5bGsC5Cbm/giphy.webp" alt="Centered Image">
+</div>
+
