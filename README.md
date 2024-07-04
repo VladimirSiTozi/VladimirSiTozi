@@ -9,8 +9,8 @@
 
 <p align="left">
   <l>
-    <li>🎓 I graduated with a degree in Computer Systems and Technologies from South-West Universi.ty "Neofit Rilski".</li>
-    <li>🌱 I'm learning Web Development with Python at Software University (SoftUni).</li>
+    <li>🎓 I graduated as a Computer Systems and Technologies engineer.</li>
+    <li>🌱 I am learning Web Development with Python and Django at Software University. </li>
     <li>💻 Currently working as Live Feed Analyst at Genius Sports.</li>
     <li>⚡ Fun fact: I love to play football and hike into the nature.</li>
   </l>
