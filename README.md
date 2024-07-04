@@ -65,6 +65,6 @@
 <br>
 
 <div align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmJmMWtjNmllMTVrN3V2cTRjM2ZnMm42aWhpeGJwZmgzdzl5bXJoZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LaVp0AyqR5bGsC5Cbm/giphy.webp" alt="Centered Image" width="450" height="auto">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXV0YTc1N3g0ZTU2OGIxOXZ1MmptYWR4cW84aThrOTRsdnJ4OTk2NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.webp" alt="Centered Image"width="350" height="auto" >
 </div>
 
