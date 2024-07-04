@@ -5,7 +5,7 @@
 
 <br>
 
-<img align="right" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExODd1aHE4ZWxxeWEwd2IzbThmc3o1a3poNGZqOWtuMTV2aWJwdzRqeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/12754FUAz1Ks5q/giphy.webp">
+<img align="right" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExODd1aHE4ZWxxeWEwd2IzbThmc3o1a3poNGZqOWtuMTV2aWJwdzRqeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/12754FUAz1Ks5q/giphy.webp" width="225" height="225">
 
 <p align="left">
   <l>
@@ -54,8 +54,6 @@
   <img width="12" />
 </div>
 
-
-<br>
 <br>
 <br>
 
@@ -68,6 +66,6 @@
 <br>
 
 <div align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmJmMWtjNmllMTVrN3V2cTRjM2ZnMm42aWhpeGJwZmgzdzl5bXJoZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LaVp0AyqR5bGsC5Cbm/giphy.webp" alt="Centered Image">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmJmMWtjNmllMTVrN3V2cTRjM2ZnMm42aWhpeGJwZmgzdzl5bXJoZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LaVp0AyqR5bGsC5Cbm/giphy.webp" alt="Centered Image" width="450" height="400">
 </div>
 
