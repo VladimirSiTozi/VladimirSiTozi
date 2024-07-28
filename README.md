@@ -1,7 +1,7 @@
 <h2 align="left">Hi 👋! My name is Vladimir</h2>
 
 
-<h3 align="left">I'm a Live Feed Analyst at Genius Sports and a passionate Python learner with a keen interest in data analytics, software development, and technology innovation.</h3>
+<h3 align="left">I'm working as a Live Feed Analyst for various sports events at Genius Sports, and I'm a passionate Python learner with a keen interest in technological innovation.</h3>
 
 <br>
 
@@ -9,10 +9,11 @@
 
 <p align="left">
   <l>
-    <li>🎓 I graduated as a Computer Systems and Technologies engineer.</li>
-    <li>🌱 I am learning Web Development with Python and Django at Software University. </li>
-    <li>💻 Currently working as Live Feed Analyst at Genius Sports.</li>
-    <li>⚡ Fun fact: I love to play football and hike into the nature.</li>
+    <li>🎓 I graduated with a degree in Computer Systems and Technologies.</li>
+    <li>🌱 I'm currently learning web development with Python and Django at Software University. </li>
+    <li>💻 I'm working as a Live Feed Analyst at Genius Sports.</li>
+    <li>⚡ Fun fact: I love playing football, watching sports events, hiking in nature, and exploring new technologies.</li>
+
   </l>
 </p>
 
