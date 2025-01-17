@@ -81,6 +81,7 @@
 <br>
 
 <div align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXV0YTc1N3g0ZTU2OGIxOXZ1MmptYWR4cW84aThrOTRsdnJ4OTk2NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.webp" alt="Centered Image"width="350" height="auto" >
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXV0YTc1N3g0ZTU2OGIxOXZ1MmptYWR4cW84aThrOTRsdnJ4OTk2NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.webp" alt="Centered Image"width="350" height="300" >
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDNpbHVxb2ZhOTI5MXJnaGY3eml3ZW9nZjJmYnR2ZHQ1ZmtvNHBvciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13FrpeVH09Zrb2/giphy.gif" alt="Centered Image"width="350" height="300" >
 </div>
 
