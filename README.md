@@ -18,7 +18,7 @@
 
 <br>
 
-<p align="left">Website:</p>
+<p align="left">Portfolio:</p>
 <p>https://vladimirsitozi.github.io/MyPortfolio/</p>
 
 
