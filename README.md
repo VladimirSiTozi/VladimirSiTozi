@@ -44,6 +44,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
   <img width="12" />
+  <img src="https://github.com/user-attachments/assets/760bbcb5-524e-49f8-ab9f-f90f9944a306" height="40" alt="azure"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=github" height="42" alt="github logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
